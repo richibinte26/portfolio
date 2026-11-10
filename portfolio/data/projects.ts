@@ -55,7 +55,7 @@ export const projects: Project[] = [
     ],
     image: "/images/projects/fitlog.PNG",
     live: "https://fit-log-six-pied.vercel.app/",
-    github: "https://github.com/richibinte26/b14-a6-fit-log",
+    github: "https://github.com/richibinte26/fit-log",
   },
   {
     slug: "bazardor",
